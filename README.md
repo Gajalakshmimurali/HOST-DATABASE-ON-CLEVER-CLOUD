@@ -12,7 +12,7 @@ Clever Cloud is a Platform as a Service (PaaS) designed to help businesses deplo
 
 1. **Create a New Application**: Start by creating a new application on Clever Cloud.
 2. **Deploy Your Application**: Deploy your application to the cloud platform.
-3. **Check Deployment**: Verify that your application has been successfully deployed.
+3. **Check Deployment**: Verify that your application has been successfully deployed. 
 4. **Configure Your Application**: Set up your application’s configuration settings.
 5. **Connect to a Database**: Establish a connection to a database hosted on Clever Cloud.
 
